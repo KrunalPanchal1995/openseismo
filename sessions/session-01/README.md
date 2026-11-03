@@ -1,6 +1,6 @@
 # Session 1: Two waves, one gap: how far away was it?
 
-[Session 1 — हिन्दी](README.hi.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openseismo*
 
